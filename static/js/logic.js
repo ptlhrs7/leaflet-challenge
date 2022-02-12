@@ -193,3 +193,5 @@ legend.onAdd = function () {
 };
 // add the lagend to the map
 legend.addTo(myMap);
+
+// refence code used from Dr.A's Videos
